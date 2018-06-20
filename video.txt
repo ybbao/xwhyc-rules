@@ -1,9 +1,21 @@
-!  -----更新时间:  2018-06-16 16:49:28   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2018-06-20 22:40:04   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224，534897434,438394572--------------
 
 
 !-------------------------------------------
-
+369uq.com##[src*="sinaimg.cn"],[width="900"],[height="70"]
+diaoyur.com##.info_300_250
+hanjutv.com###layui-layer1
+haote.com##.htJbanner,.youdao,.bigmainImg,.htHbanner,.nhtXzdzRight
+pjtime.com##.button_ad,.button_ad1,.butfd,#pjtime_full
+|http://*.com/dynr.js
+|http://*.com/go.js
+|http://*.com/pv.js
+|http://*.com/ycszf.js
+|http://*/js/player_vjs5_10.js
+||168ya.xyz
+||23.247.97.62
+||hanjutv.com/statics/js/tb.js^
 !-----------------------
 
 
