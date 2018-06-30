@@ -1,24 +1,67 @@
-!  -----更新时间:  2018-06-21 22:33:19   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2018-06-30 15:21:29   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224，534897434,438394572--------------
 
 
 !-------------------------------------------
 369uq.com##[src*="sinaimg.cn"],[width="900"],[height="70"]
+5555op.com##[width="450"]
+5dm.tv##[href^="/html/ad"]
+ccav5.com##[name^="c5ad_right"],[src*="sinaimg.cn"]
 diaoyur.com##.info_300_250
+ditiezu.com##.adsbygoogle
+eol.cn###adleft,#adright,.page_rbaidu
+freeluba.com##[class^="asst asst-"]
+fuliba##[src*="sinaimg.cn"]
+fun520.fun##[id$="_ad"]
 hanjutv.com###layui-layer1
 haote.com##.htJbanner,.youdao,.bigmainImg,.htHbanner,.nhtXzdzRight
+hkcoding.com##.fixedimg
+hongzhoukan.com##.news_adver
+huarenjie.com##.cfad
+huya.com##[class^="room-gg-"]
+iqtfy.com##[class^="1"]
+kdslife.com##.adL,#foot_pop_banner
+likefont.com###recommended-tool-area,#fontke-nav
+oneinstack.com##.adsbygoogle,[height="250"]
+pianyuan###myModal
+pianyuan.net##.modal-backdrop
 pjtime.com##.button_ad,.button_ad1,.butfd,#pjtime_full
+qbaobei.com###diyforumdisplaybottom
+qicheyinyue.wang###float
+qinbing.cn##[class^="mask"],[class^="Ad-"],[class^="layui-"],[class^="ad"]
+qixingquan.com##[class$="a_cb"],[style^="float:"]
+qqtenglong.com##[height="80"]
+qqtn.com##.g-ban-img
+qtv.com.cn##[class^="ad-"]
+qyer.com##.advertising,.q-footer-banner
+rfidworld.com.cn###IOTVote2017Ad,#IOTEAd2018Ad
+taoguba.com.cn###duilianAd,#duilianAd1,.xc_panel,#headerAd
+taoyizhu.com##.banner-close
+unjs.com###v_ads
+vkugq.com##[id^="portal_block_"]
+yingshidaquan.cc###ad_right,#ad_left
 |http://*.com/dynr.js
 |http://*.com/go.js
 |http://*.com/pv.js
 |http://*.com/ycszf.js
 |http://*/js/player_vjs5_10.js
+|http://e.*/V.aspx?Bln=
+|http://js.taipwl.com/yingshidaquan/index$script
+|http://pianyuan.net/Public/static/bsv3/js/bootstrap.min.js
 ||0454yc.com
 ||168ya.xyz
 ||23.247.97.62
 ||23.88.77.75
+||724cc.com/js/$script
+||alicdn.com/statics/*/static/js/spv.js$s@t.VAL.length>0@false@
+||bbs.gmbbk.com/$script
 ||ganfee.com/caoaa
 ||hanjutv.com/statics/js/tb.js^
+||ifengimg.com/d/m/Idfindex.js
+||iis1.deliver.ifeng.com^
+||qsart.cn
+||vjoytzia.com/iqs.js
+||yingshidaquan.cc/Templet/js/$script
 !-----------------------
 
 
