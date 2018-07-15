@@ -1,13 +1,80 @@
-!  -----更新时间:  2018-07-07 17:35:03   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2018-07-15 17:33:07   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224，534897434,438394572--------------
 
 
 !-------------------------------------------
-
+51wangdai.com##[class="top_AD"],.ad
+52av.tv##[width="300"],[width="374"]
+678pan.org##[height="105"]
+@@||img.kf.cn/ad/css/*.css
+aeink.com##[href="http://xcj.95jw.cn"]
+cnbeta.com##.tks
+ctfile.net##[href="https://www.ctfile.com/about/adv"]
+daqianduan.com##[href^="https://s.click.taobao.com/"]
+halihali.cc##.tuiguang
+hupu.com##[id^="google_ads_"]
+ikanfan.com##.index-r
+kafan.cn###content_top,#content_bottom,[href^="https://vip.iqiyi.com/"]
+manhuagui.com##.gg_728
+newcger.com##.adFullwidth90,.h90,ul.imgItem
+pc6.com###topbanner
+pythontab.com##.portal_block_summary
+shandian.biz##[height="600"],[height="65"]
+silver.org.cn##.toubugua,.fixbottom_wrap_small
+sj998.com##.ad5,.ad,.ad1,.ad2,.ad3,.mod-b-push
+taoy7.info###adindex
+xingkbjm.com##.d_banner_inner
+yocoolnet.com##[id^="mobile_inplayer"]
+youku.com##.outsitepanel
+|http://60cjstatic.wow-classic.com/assets/application-$script
+|http://galaxy.bjcathay.com/m?_pt=
+|http://m.shumil.com/themes/m/script/common.js?v=$s@function ad_hengfu()*function tongji()@function xxx()@
+|http://www.cntv.cn/nettv/adp/online/adlist_
+|http://www.shumil.com/style/comm.js?v=$s@function ad_*function tongji()@function xxx()@
+||12l22.net
+||44jf.com/js/$script
+||91byy.cn
+||ad4g.cn
+||anmeilai.net
+||auuux.com
+||bayimob.com
+||bjdianyue.com
+||borsendental.com^
+||chaojilamei.cn
+||continuedsys.cn
+||dnaxddnc.com
+||ff.meikanguo.com/$script
+||gaykes.com
+||h501.cn$script
+||hdswgc.com
+||huancaicp.com
+||icaile.com/z.php?id=
+||ienkdaccessible.cn
+||img1.xn123.cn/wp-content/themes/bt/js/global.js$s@function myclick()@function myclickxxx()@
+||jfjsp.com
+||m.88dus.com/mobile/css/m.js$s@function tongji()*function uc()@function xxx()@
+||mubite.cn
+||njmpacc.com
+||shandian.biz/a/guga.js
+||sj33.cn/js/tuchong.js
+||srssn.com/jswrap/pc
+||sztbjs.com^
+||taboola.com/libtrc/cnbeta-english/loader.js
+||topitme.com
+||uklyv.cn
+||vidstat.taboola.com/vpaid/units/*/infra/cmTagFEED_MANAGER.js
+||wowad.wow-classic.com^
+||yezijizhang.com
+||yiren02.com/js/$script
+||yueba94.com
+||ywxi.net
+||yzaosite.com$third-party
+||zgax.net/js/m/
+||zunss.com
 !-----------------------
-
-
-
+|http://*/jdhlbb.js|
+@@||tinypic.com^
+@@||tcss.qq.com^
 
 !---------adbyby---------
 
