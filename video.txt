@@ -1,4 +1,4 @@
-!  -----更新时间:  2018-07-15 17:33:07   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2018-07-22 17:32:56   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224，534897434,438394572--------------
 
 
@@ -22,10 +22,13 @@ pythontab.com##.portal_block_summary
 shandian.biz##[height="600"],[height="65"]
 silver.org.cn##.toubugua,.fixbottom_wrap_small
 sj998.com##.ad5,.ad,.ad1,.ad2,.ad3,.mod-b-push
+tahua.net##.fwinmask,#append_parent
 taoy7.info###adindex
+tbjbd.com##.advs
 xingkbjm.com##.d_banner_inner
 yocoolnet.com##[id^="mobile_inplayer"]
 youku.com##.outsitepanel
+|http://*.com/js/aaa/$script
 |http://60cjstatic.wow-classic.com/assets/application-$script
 |http://galaxy.bjcathay.com/m?_pt=
 |http://m.shumil.com/themes/m/script/common.js?v=$s@function ad_hengfu()*function tongji()@function xxx()@
@@ -34,27 +37,36 @@ youku.com##.outsitepanel
 ||12l22.net
 ||44jf.com/js/$script
 ||91byy.cn
+||ad.aginomoto.com
+||ad.mi.com
 ||ad4g.cn
 ||anmeilai.net
+||api.io.mi.com
 ||auuux.com
 ||bayimob.com
 ||bjdianyue.com
 ||borsendental.com^
 ||chaojilamei.cn
 ||continuedsys.cn
+||count.vrs.sohu.com/count/queryext.action?vids=$f@s@&plids=\d+&@&plids=7038006&@
+||dapaogg.xyz
 ||dnaxddnc.com
 ||ff.meikanguo.com/$script
+||g.dtv.cn.miaozhan.com
 ||gaykes.com
+||gvod.aiseejapp.atianqi.com
 ||h501.cn$script
 ||hdswgc.com
 ||huancaicp.com
 ||icaile.com/z.php?id=
 ||ienkdaccessible.cn
 ||img1.xn123.cn/wp-content/themes/bt/js/global.js$s@function myclick()@function myclickxxx()@
+||j.avz4.com
 ||jfjsp.com
 ||m.88dus.com/mobile/css/m.js$s@function tongji()*function uc()@function xxx()@
 ||mubite.cn
 ||njmpacc.com
+||qwertyuiopa.co^
 ||shandian.biz/a/guga.js
 ||sj33.cn/js/tuchong.js
 ||srssn.com/jswrap/pc
@@ -62,6 +74,7 @@ youku.com##.outsitepanel
 ||taboola.com/libtrc/cnbeta-english/loader.js
 ||topitme.com
 ||uklyv.cn
+||v.aty.sohu.com/v?prot=vast&cat=$s@<Ad*</Ad>@@
 ||vidstat.taboola.com/vpaid/units/*/infra/cmTagFEED_MANAGER.js
 ||wowad.wow-classic.com^
 ||yezijizhang.com
