@@ -1,18 +1,23 @@
-!  -----更新时间:  2018-07-26 22:41:15   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2018-07-29 17:39:07   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224，534897434,438394572--------------
 
 
 !-------------------------------------------
 /99rejs/js
+3dmgame.com##[class^="tonglona_"]
 51wangdai.com##[class="top_AD"],.ad
 52av.tv##[width="300"],[width="374"]
 678pan.org##[height="105"]
 @@||img.kf.cn/ad/css/*.css
 aeink.com##[href="http://xcj.95jw.cn"]
+aiqqzy.com##.leftadv,.HtmlMoKua > .themeauthor,#ShouYe_ShangBu > .themeauthor > table:first-child
+boniu6668.com##.td_item,.left_side,.right_side
 cnbeta.com##.tks
 comicat.org##[href^="http://nyabbs.com/group/topic/"]
 ctfile.net##[href="https://www.ctfile.com/about/adv"]
 daqianduan.com##[href^="https://s.click.taobao.com/"]
+disanlou.cc##.a_mu
+e21.cn##[id^="iframe_ad"],#coupletleft,#coupletright
 gwy.lngbzx.gov.cn###ZhiXuwFloatWindow
 halihali.cc##.tuiguang
 hupu.com##[id^="google_ads_"]
@@ -20,6 +25,7 @@ ikanfan.com##.index-r
 kafan.cn###content_top,#content_bottom,[href^="https://vip.iqiyi.com/"]
 kpd65.com##.index-owl-carousel,.tbtcode,[src^="/d/file/huandeng"]
 lenovo.com.cn##[class^="ad"]
+lieqinews.com##.ggcnt,.lq_mcngg
 lqz.cn##[id^="ad_"]
 ly6080.com.cn##[height="50"],[height="60"],[height="100"]
 manhuagui.com##.gg_728
@@ -28,6 +34,7 @@ pc6.com###topbanner
 ppav.vip##.business
 pythontab.com##.portal_block_summary
 qihoo.com##[id$="_gg"]
+qyl\d+\.com##.qylqzhf,.qylbjhf,.qylzrhf,.bottom-adv,.qylwzdb,table.main
 shandian.biz##[height="600"],[height="65"]
 silver.org.cn##.toubugua,.fixbottom_wrap_small
 sj998.com##.ad5,.ad,.ad1,.ad2,.ad3,.mod-b-push
@@ -38,11 +45,16 @@ taoy7.info###adindex
 tbjbd.com##.advs
 tbtdg.com##[width="288"]
 tv110.com##.index_rank
+tv110.com##.paly_rrank
+xd0.com##.HtmlMoKua.two-thirds,.HtmlMoKua > .themeauthor
 xingkbjm.com##.d_banner_inner
 yeyulingfeng.com###gg,.textwidget,.asb
 yibo5.cn##.left_side,.right_side
+yicai.com##.dfb-ad
+yjizz\d+\.com##.yzzqzhf,.yzzbjhf,.yzzzrhf,.bottom-adv,.qylwzdb,table.main
 yocoolnet.com##[id^="mobile_inplayer"]
 youku.com##.outsitepanel
+zimuzu.io##[href^="http://renren2.maoyun.tv/fsq/"]
 zrblog.net##[width="125"][height="125"],.con_box.hot_box
 |http://*.com/js/aaa/$script
 |http://60cjstatic.wow-classic.com/assets/application-$script
@@ -68,7 +80,9 @@ zrblog.net##[width="125"][height="125"],.con_box.hot_box
 ||continuedsys.cn
 ||count.vrs.sohu.com/count/queryext.action?vids=$f@s@&plids=\d+&@&plids=7038006&@
 ||dapaogg.xyz
+||dapaogg.xyz^
 ||dnaxddnc.com
+||fccxgjg.com
 ||ff.meikanguo.com/$script
 ||fjlqqc.com
 ||g.dtv.cn.miaozhan.com
@@ -82,6 +96,7 @@ zrblog.net##[width="125"][height="125"],.con_box.hot_box
 ||img1.xn123.cn/wp-content/themes/bt/js/global.js$s@function myclick()@function myclickxxx()@
 ||j.avz4.com
 ||jfjsp.com
+||live888.tv/public/home/show/js/share.min.js
 ||m.88dus.com/mobile/css/m.js$s@function tongji()*function uc()@function xxx()@
 ||mubite.cn
 ||njmpacc.com
@@ -90,6 +105,7 @@ zrblog.net##[width="125"][height="125"],.con_box.hot_box
 ||shandian.biz/a/guga.js
 ||sj33.cn/js/tuchong.js
 ||srssn.com/jswrap/pc
+||startui19999.com
 ||sztbjs.com^
 ||taboola.com/libtrc/cnbeta-english/loader.js
 ||topitme.com
