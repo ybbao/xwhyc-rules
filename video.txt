@@ -1,15 +1,19 @@
-!  -----更新时间:  2018-07-31 22:51:06   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2018-08-02 22:49:11   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224，534897434,438394572--------------
 
 
 !-------------------------------------------
 /99rejs/js
+360kan.com##.todayhot-ad-li,.js-ad-video,[data-ad="true"],[data-clicklog],.js-b-adword
 3dmgame.com##[class^="tonglona_"]
 51wangdai.com##[class="top_AD"],.ad
 52av.tv##[width="300"],[width="374"]
 678pan.org##[height="105"]
+82tu.cc##[height="90"],.infoad,.playad
+@@||cjhd.mediav.com/js/interactive_plugin.js
 @@||e21.cn/sqlimg/advertisement/
 @@||img.kf.cn/ad/css/*.css
+@@||xdssp.mediav.com
 aeink.com##[href="http://xcj.95jw.cn"]
 aiqqzy.com##.leftadv,.HtmlMoKua > .themeauthor,#ShouYe_ShangBu > .themeauthor > table:first-child
 boniu6668.com##.td_item,.left_side,.right_side
@@ -44,6 +48,7 @@ talkfx.com##.wp.a_h,.wp.a_t
 taoy7.info###adindex
 tbjbd.com##.advs
 tbtdg.com##[width="288"]
+tiboo.cn###read_tl1
 tv110.com##.index_rank
 tv110.com##.paly_rrank
 xd0.com##.HtmlMoKua.two-thirds,.HtmlMoKua > .themeauthor
@@ -58,6 +63,7 @@ zimuzu.io##[href^="http://renren2.maoyun.tv/fsq/"]
 zimuzu.io##[src$="banner.jpg"],.lx167
 zrblog.net##[width="125"][height="125"],.con_box.hot_box
 |http://*.com/js/aaa/$script
+|http://*/960x60_
 |http://60cjstatic.wow-classic.com/assets/application-$script
 |http://galaxy.bjcathay.com/m?_pt=
 |http://m.shumil.com/themes/m/script/common.js?v=$s@function ad_hengfu()*function tongji()@function xxx()@
@@ -88,6 +94,7 @@ zrblog.net##[width="125"][height="125"],.con_box.hot_box
 ||dnaxddnc.com
 ||fccxgjg.com
 ||ff.meikanguo.com/$script
+||ff.xue63.com^
 ||fjlqqc.com
 ||g.dtv.cn.miaozhan.com
 ||gaykes.com
@@ -131,7 +138,7 @@ zrblog.net##[width="125"][height="125"],.con_box.hot_box
 ||zunss.com
 ||zx573.cn
 !-----------------------
-|http://*/jdhlbb.js|
+|http://*/hbfjnn.js|
 @@||tinypic.com^
 @@||tcss.qq.com^
 
