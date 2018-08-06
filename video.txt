@@ -1,10 +1,12 @@
-!  -----更新时间:  2018-08-04 22:48:24   by:xwhyc-----------------------------------------------
-!  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224，534897434,438394572--------------
+!  -----更新时间:  2018-08-05 18:05:30   by:xwhyc-----------------------------------------------
+!  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224(满)，534897434,438394572--------------
 
 
 !-------------------------------------------
+.php?ad=
 /99rejs/js
 /js/guanggao_gg.js?d=
+/unionjs/$script
 360kan.com##.todayhot-ad-li,.js-ad-video,[data-ad="true"],[data-clicklog],.js-b-adword
 3dmgame.com##[class^="tonglona_"]
 51credit.com###leftLayerDown
@@ -17,6 +19,7 @@
 @@||cjhd.mediav.com/js/interactive_plugin.js
 @@||e21.cn/sqlimg/advertisement/
 @@||img.kf.cn/ad/css/*.css
+@@||pdawiki.com/forum/source/plugin/freeaddon_banadblock/$script
 @@||xdssp.mediav.com
 aeink.com##[href="http://xcj.95jw.cn"]
 aiqqzy.com##.leftadv,.HtmlMoKua > .themeauthor,#ShouYe_ShangBu > .themeauthor > table:first-child
@@ -40,6 +43,7 @@ lieqinews.com##.ggcnt,.lq_mcngg
 lqz.cn##[id^="ad_"]
 ly6080.com.cn##[height="50"],[height="60"],[height="100"]
 manhuagui.com##.gg_728
+mwrf.net###mrf_left,#mrf_right,.ad_1,.uc1_ad_1,.uc1_banner
 mydrivers.com##[src^="//icons.mydrivers.com/2018/ad"]
 newcger.com##.adFullwidth90,.h90,ul.imgItem
 pc6.com###topbanner
@@ -78,6 +82,7 @@ youku.com##.outsitepanel
 yundaquan.com##[src^="data/attachment/portal/20"],.a_cb,.a_pr,.a_t
 zimuzu.io##[href^="http://renren2.maoyun.tv/fsq/"],[src$="banner.jpg"],.lx167
 zrblog.net##[width="125"][height="125"],.con_box.hot_box
+|http://*.com/?uid=
 |http://*.com/js/aaa/$script
 |http://*/960x60_
 |http://60cjstatic.wow-classic.com/assets/application-$script
@@ -126,6 +131,7 @@ zrblog.net##[width="125"][height="125"],.con_box.hot_box
 ||gvod.aiseejapp.atianqi.com
 ||h501.cn$script
 ||hdswgc.com
+||heygugu.com
 ||huancaicp.com
 ||icaile.com/z.php?id=
 ||ienkdaccessible.cn
@@ -134,6 +140,7 @@ zrblog.net##[width="125"][height="125"],.con_box.hot_box
 ||jfjsp.com
 ||journalforum.org^
 ||jsyxfdj.com
+||kddtri.cn
 ||khufaw2.com
 ||live888.tv/public/home/show/js/share.min.js
 ||ltdnc.com
@@ -142,9 +149,12 @@ zrblog.net##[width="125"][height="125"],.con_box.hot_box
 ||m.fecjf.cn
 ||mubite.cn
 ||njmpacc.com
+||nvshuyun.com
 ||p.zol-img.com.cn/da/index.js
 ||qwertyuiopa.co^
 ||rscxwmj.cn
+||ruiwen.com/js/a/p.js
+||s1.hitv.com/libs/??ad-sdk/
 ||shandian.biz/a/guga.js
 ||sj33.cn/js/tuchong.js
 ||srssn.com/jswrap/pc
@@ -160,13 +170,16 @@ zrblog.net##[width="125"][height="125"],.con_box.hot_box
 ||v.aty.sohu.com/v?prot=vast&cat=$s@<Ad*</Ad>@@
 ||vidstat.taboola.com/vpaid/units/*/infra/cmTagFEED_MANAGER.js
 ||wagenlux.cn
+||web.da.mgtv.com/pc/page?p={
 ||wowad.wow-classic.com^
+||wq42219.com
 ||wyt.wwetjy.com
 ||xunyingwang.com$s@<script src="https://*.js"></script>@@
 ||ydqzkj.com
 ||yezijizhang.com
 ||yiren02.com/js/$script
 ||yueba94.com
+||yuesp.com/js/viu/
 ||yuyue008.cn
 ||ywxi.net
 ||yxdown.com/zt/zt/js/zt.js
@@ -179,6 +192,6 @@ zrblog.net##[width="125"][height="125"],.con_box.hot_box
 |http://*/hbfjnn.js|
 @@||tinypic.com^
 @@||tcss.qq.com^
-
+@@|http://mobaliyun.res.mgtv.com
 !---------adbyby---------
 
