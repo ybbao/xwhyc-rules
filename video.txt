@@ -1,15 +1,20 @@
-!  -----更新时间:  2018-08-16 22:58:17   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2018-08-17 22:39:39   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224(满)，534897434,438394572--------------
 
 
 !-------------------------------------------
+52pojie.cn##.adsbygoogle
+55188.com##.g-pop,[class$="-gg"]
 678cn.com##.ibtad,.ad-box,.top_ad,[height="50"],[height="60"],[height="65"]
+tucao.one##.newppcp5,.newppcp1,[style="margin:auto;margin-top:0px;width:964px;height:105px;"],.newppap1,.newppap3,[href^="http://www.tucao.one/index.php?m=poster&c=index&a=poster_click&"]
+wap.zol.com.cn###waitrep
+xd0.com##[href="http://yunchangkm.999ka.cn/"],[height="100"]
+xnnews.com.cn##.ad,#logoad1,[height="100"],[height="60"]
 |http://mark.l.qq.com/fcgi-bin/get_video_mark_all^
-
 
 !-----------------------
 |http://*/eycgro.js|
 |http://vd.l.qq.com/proxyhttp
-
+@@|http://p0.ifengimg.com/pmop/20
 !---------adbyby---------
 
