@@ -1,20 +1,55 @@
-!  -----更新时间:  2018-08-17 22:39:39   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2018-08-18 23:41:58   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224(满)，534897434,438394572--------------
 
 
 !-------------------------------------------
+/static/js/aall.js
+34ja.com##[width="640"],[height="60"],[width="900"]
+51yfx.com###tmall_1111,#widget-gouwu,#widget-test
 52pojie.cn##.adsbygoogle
 55188.com##.g-pop,[class$="-gg"]
 678cn.com##.ibtad,.ad-box,.top_ad,[height="50"],[height="60"],[height="65"]
+911kp1.com##[height="80px"]
+cgown.com##[height="90"],[href^="https://ax85.taobao.com"],[href^="http://www.aec4d.com/"]
+daydaycook.com##[class^="ad"]
+im286.net##.portal_block_summary,.a_clcced_pt
+myjianzhu.com##[height="60"]
+shangc.net###slidead
+skinme.cc##.gg2
 tucao.one##.newppcp5,.newppcp1,[style="margin:auto;margin-top:0px;width:964px;height:105px;"],.newppap1,.newppap3,[href^="http://www.tucao.one/index.php?m=poster&c=index&a=poster_click&"]
 wap.zol.com.cn###waitrep
+weebly.com##[href*="https://www.ebay.com"]
+wn789.com##[src*="https://www.wn789.com"]
 xd0.com##[href="http://yunchangkm.999ka.cn/"],[height="100"]
+xiazaiba.com##[class^="adv-"]
 xnnews.com.cn##.ad,#logoad1,[height="100"],[height="60"]
+|159i.com/p/b201u502y.js
 |http://mark.l.qq.com/fcgi-bin/get_video_mark_all^
-
+|http://www.jintang114.org/cba-3/cba-
+||168gamer.net/list-*.html
+||3g.ishuo.cn/static/js/mobile.js
+||643226.com
+||6d63d3.com
+||88ys.ml/ad/
+||baolic.com^
+||btmp4.net
+||chaojilamei.cn
+||diyimh.com^
+||gucheng.com/2016/common_m.js
+||hawbfa.com
+||kyouad.com
+||lifu11.com
+||m.xigua110.com/js/bottom.js
+||sbzxmj.cn
+||szxiuchang.com
+||wei2008.com/skin/js/
+||xigua110.com/a/$script
+toutiao.com##[name^="adetail_right"]
 !-----------------------
 |http://*/eycgro.js|
 |http://vd.l.qq.com/proxyhttp
 @@|http://p0.ifengimg.com/pmop/20
+@@||cbjs.baidu.com/js/o.js$domain=jkpan.com
+
 !---------adbyby---------
 
