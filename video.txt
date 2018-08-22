@@ -1,4 +1,4 @@
-!  -----更新时间:  2018-08-20 23:12:54   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2018-08-21 22:53:15   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224(满)，534897434,438394572--------------
 
 
@@ -57,6 +57,7 @@ zimuzu.io##[height="90"]
 |http://vd.l.qq.com/proxyhttp
 @@|http://p0.ifengimg.com/pmop/20
 @@||cbjs.baidu.com/js/o.js$domain=jkpan.com
+@@||granbluefantasy.jp/assets/*_skin_pop.js
 
 !---------adbyby---------
 
