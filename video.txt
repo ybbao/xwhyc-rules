@@ -1,13 +1,27 @@
-!  -----更新时间:  2018-08-24 21:25:10   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2018-08-27 22:16:41   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224(满)，534897434,438394572--------------
 
 
 !-------------------------------------------
-
+120ask.com##.YWBDAD
+560996.com##[href^="http://www.560996.com/love"],[src^="//ad.a-ads.com/"]
+9ifz.cc##[height="70"],[height="60"],.mail-box.mb10,.logbtad
+bilibili.com##.slide-gg,#slide_ad
+macx.cn###aswift_0_expand
+qq.com##[data-module="advertisement"]
+taoy66.info##.bottomdiv,#q_bbs_diyad1,#adindex,.advideodown,.ad,.imglongloading
+zhiboba.org##[class^="ctgg_"],[class^="ctvgg_"],[class^="cthgg_"]
+zhibok8.com##[height="65"]
+zixuekaoshi.net##.qq_nr_lad
+|http://g.alicdn.com/sd/ncpc/nc.js?t=
+|http://www.xue63.com/img/js1.js
+||bitcoadz.io
+||lanyingba.com/css/v.js
+||zhlzw.com/Template/Default/js/$script
 !-----------------------
-|http://*/eycgro.js|
+/rlptepi.js|
 |http://vd.l.qq.com/proxyhttp
-
+@@||mishop.cdn.pandora.xiaomi.com
 
 !---------adbyby---------
 
