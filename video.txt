@@ -1,12 +1,15 @@
-!  -----更新时间:  2018-09-08 22:55:01   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2018-09-09 10:58:01   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224(满)，534897434,438394572--------------
 
 
 !-------------------------------------------
+/vlive.qqvideo.tc.qq.com/*.mp4^*fmt=hd
+/variety.tc.qq.com/*.mp4^*fmt=hd
+
 
 !-----------------------
 /nhlpyu.js|
-
-
+|http://mark.l.qq.com/fcgi-bin/get_video_mark_all*&strAdParam=
+|http://mark.l.qq.com/fcgi-bin/get_video_mark_all*&strAdParam=$s@"duration":"??000"@"duration":"0"@
 !---------adbyby---------
 
