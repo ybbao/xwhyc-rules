@@ -1,21 +1,25 @@
-!  -----更新时间:  2018-09-11 22:35:16   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2018-09-13 22:13:32   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224(满)，534897434,438394572--------------
 
 
 !-------------------------------------------
+/agetsou.js^
 /cococ-66/$script
 /defaultts.tc.qq.com/*.ts?index=0&start=0&end=*&ver=4
 /js/sss/ad.js
 /variety.tc.qq.com/*.mp4^*fmt=hd
 /vlive.qqvideo.tc.qq.com/*.mp4^*fmt=hd
+0597kk.com##[height="70"]
 5200xs.org##.adsbygoogle
 bitauto.com##.best-car,.buy2018-freetax,.ad-tag2
 downsx.com##.adbox,.Left-ad3_fixed,.google-ad2_fixed
 fanjian.net##.bkgd-topapps,.gd
 panda.tv##.room-banner-images
 xmfish.com##.bobing-theme,.adv-960
-xwhyc 17:36:26
 znjj.tv##.adver1,[class$="_guanggao"]
+|http://*.com/js/aa.htm
+|http://static.iqiyi.com/js/player_v1/res/20$s@<span class=cd-time>*</span>@<span class=cd-time>0</span>@
+||1.qjhm.net/
 ||3456porn.com:538/attachment/js/
 ||aodongjiaosu.com
 ||diuling.com
@@ -23,6 +27,10 @@ znjj.tv##.adver1,[class$="_guanggao"]
 ||ggx.cmvideo.cn/request/
 ||kexigia.com
 ||ks67.com
+||ldb.cc/js/top.js
+||sinaimg.cn/large/$domain=taoy66.info
+||ssports.iqiyi.com/play/$s@var adid = "0";@var adid = "-1";@
+
 !-----------------------
 /nhlpyu.js|
 |http://mark.l.qq.com/fcgi-bin/get_video_mark_all*&strAdParam=
