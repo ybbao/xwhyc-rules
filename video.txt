@@ -1,4 +1,4 @@
-!  -----更新时间:  2018-09-13 22:13:32   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2018-09-15 11:52:07   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224(满)，534897434,438394572--------------
 
 
@@ -8,32 +8,52 @@
 /defaultts.tc.qq.com/*.ts?index=0&start=0&end=*&ver=4
 /js/sss/ad.js
 /variety.tc.qq.com/*.mp4^*fmt=hd
+/view/js/slade.js|$script
 /vlive.qqvideo.tc.qq.com/*.mp4^*fmt=hd
+0573ren.com##[src^="http://s1.0573fang.com/upimg/ads/"],.weblistad,.a_pb,.w1000.ad
 0597kk.com##[height="70"]
+0830bbs.com##[id^="comiis_xizi_gg"],.comiis_toubox_gg
+1905.com##.zx-pic,.zx-small-pic,.adArea
 5200xs.org##.adsbygoogle
 bitauto.com##.best-car,.buy2018-freetax,.ad-tag2
 downsx.com##.adbox,.Left-ad3_fixed,.google-ad2_fixed
+f-fans.club###carouselExampleIndicators
 fanjian.net##.bkgd-topapps,.gd
+jxcn.cn##[class^="mediav-"],.dsp_yxxf
 panda.tv##.room-banner-images
+shixunwan.cn##[class^="adSpace"]
+tvmao.com##[ad],[class$="_ad"]
 xmfish.com##.bobing-theme,.adv-960
 znjj.tv##.adver1,[class$="_guanggao"]
 |http://*.com/js/aa.htm
+|http://*.com/ms/c-
+|http://oa-mssp.data.aliyun.com/fetch_creative_ability?mode=
 |http://static.iqiyi.com/js/player_v1/res/20$s@<span class=cd-time>*</span>@<span class=cd-time>0</span>@
+|http://zt2.wa5as4.com/vd1f26/199/
+|https://m.*.com/114.html^|
 ||1.qjhm.net/
 ||3456porn.com:538/attachment/js/
 ||aodongjiaosu.com
+||biochempop.com^
+||cdn.bootcss.com/zepto/*/zepto.js
 ||diuling.com
+||fbaot.com
+||fenvm.com
 ||geren-jianli.com/arttop.js
 ||ggx.cmvideo.cn/request/
+||jxcn.cn/assets/js/360ads.js^
 ||kexigia.com
 ||ks67.com
 ||ldb.cc/js/top.js
+||m.tvmao.com/$s@function addAD@function xxx@
 ||sinaimg.cn/large/$domain=taoy66.info
 ||ssports.iqiyi.com/play/$s@var adid = "0";@var adid = "-1";@
-
+||yiybb.com/inc/myidong.js
+||yiybb.com/inc/p-t.js
 !-----------------------
-/nhlpyu.js|
+/icgkgmr.js|
 |http://mark.l.qq.com/fcgi-bin/get_video_mark_all*&strAdParam=
 |http://mark.l.qq.com/fcgi-bin/get_video_mark_all*&strAdParam=$s@"duration":"??000"@"duration":"0"@
+^http://[^/]*/[a-z]{6,}\.js$s@try{!function(t){window.___baidu_union_ds_||(window.___baidu_union_ds_={}),window._SF_&&window._SF_._global_&&window._SF_._global_._ssp&&(t=window._SF_._global_._ssp),function(){var e={name:'sojs',namespace:'',classes:{},classesCache:{},path:{},pathCache:{},noop:function(){},$sojs:function()@@
 !---------adbyby---------
 
