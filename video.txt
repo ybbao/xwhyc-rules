@@ -1,11 +1,13 @@
-!  -----更新时间:  2018-11-09 23:31:59   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2018-12-03 21:33:29   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224(满)，534897434,438394572--------------
 
 
 !-------------------------------------------
 /ad-img/
 /showadv/
+
 163.com##iframe[src^="https://static-alias-1.360buyimg.com/"],.post_content_endad
+18p2p.com##[height="70"],[height="60"]
 3199.cn###ad640,[id^="ad0"]
 3dmgame.com##.quickdown2,[style^="width:274px;height:325px;"]
 76fengyun.com###down_box{display:block!important;}.gggg,.ggao
@@ -17,6 +19,7 @@ airav.cc##.video-promote-adv,#bottom-adv,.ad-body
 aizhan.com##.couplet.left,.couplet.right,.bot-azone
 amazon.cn##.adv-float-div
 blog.sina.cn##[data-role="sax-wrap-"]
+cnscg.com##.itop-ad
 downsx.rocks##.adbox,.Left-ad3_fixed,.google-ad2_fixed
 dysfz.vip##.item-fifth-dl
 eastday.com##.listNews-item-s1.ave_cns
@@ -25,11 +28,16 @@ fx678.com##[class^="adv-"]
 halihali.tv##.tuiguang,[href^="https://s.click.taobao.com/"]
 hqew.com##.pop-banner
 hupu.com##.maibghref
+kxdao.net##[height="60"]
 ozxw.co##.a_h
 pingwest.com###J_bottomAd
 qq.com##.qq-gg
 shui5.cn##.fullScreenAd,.sidebarAd
 zhihu.com##.Card.Banner
+
+
+
+
 |http://*.com/myjs/mys_alljs.js^
 |http://104.149.15.130
 |http://t66y.com$s@var timerS = setTimeout(function(){* nbsp);@@
@@ -80,5 +88,11 @@ zhihu.com##.Card.Banner
 !-----------------------
 /mgkojt.js|
 |http://mark.l.qq.com/fcgi-bin/get_video_mark_all*&strAdParam=
+||gugeys.cc/yg/ad$script
+||gugeys.cc/source/plugin/fn_float_weixin/js/fn_weixn.js
+||safe-aisle.jointreport-switch.com/?uid=
+
+|http://a-cn.duoyi.com
+||72mi.com/$s@<script src="https://j.qiqivv.com:*></script>@@
 !---------adbyby---------
 
