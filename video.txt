@@ -1,9 +1,25 @@
-!  -----更新时间:  2019-01-11 21:19:35   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2019-01-23 22:34:08   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224(满)，534897434,438394572--------------
 
 
 !-------------------------------------------
-
+@@||imgs.aixifan.com/banner_
+acfun.cn##.danmu-ad
+cnfol.com##.allAd,.rightAd,[class^="new-float-"]
+dysfz.tv##[class^="hongbao_hd_"],#slideBox.slideBox,.item-fifth-dl
+goodgupiao.com##[class^="Adv_"],[class^="rightBan"],.boxBodyNoBreak,.dl_banner160
+onetvb.com##[src^="/assets/ads/"],.mdl-card__supporting-text
+onlytvb.com##[src^="/assets/ads/"],.mdl-card__supporting-text
+wnflb2019.com##.GzList
+||3g.cnfol.com/f=ua/js/AdSystem/
+||99pps.com
+||cnfol.com/pc/Js/as/async
+||goodgupiao.com/skins/default/js/backTop.js
+||i.zuciwang.com/js/q.js
+||onetvb.com/$s@if (isAndroid === true)*</script>@}</script>@
+||onetvb.com/assets/ads/$script
+||onlytvb.com/$s@if (isAndroid === true)*</script>@}</script>@
+||onlytvb.com/assets/ads/$script
 !-----------------------
 |http://mark.l.qq.com/fcgi-bin/get_video_mark_all*&strAdParam=
 !---------adbyby---------
