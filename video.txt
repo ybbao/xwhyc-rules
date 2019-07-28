@@ -1,4 +1,4 @@
-!  -----更新时间:  2019-07-18 22:10:11   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2019-07-28 23:18:41   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224(满)，534897434,438394572--------------
 
 
@@ -12,8 +12,11 @@
 /js/gg\d\.js
 /template/lteee/ad/
 /view/image/QT_$image
+0575bbs.com##[height="80"],[height="70"],[height^="80alt"]
+0597kk.com##[data-position][style^="display: block"]
 10jqka.com.cn##.main_cont_2
 163.com##[src^="http://money.163.com/special/zhishu_"]
+188soft.com##[id^="mv_ad_dom"]
 360kuai.com##.bottom_rectangle_gg_outer_box,[id$="_gg"],.adwall-close,[data-gg]
 55188.com##.ad_side,[class^="ad_gg"]
 88gs.com##.banner
@@ -26,7 +29,7 @@
 \d+btbtt\.com###wrapper_left_bg,#wrapper_right_bg
 ^http://[a-z]*zhongzicili\.$s@<div class="footer"*/opensug.js"></script>@@
 ^http://[a-z]*zhongzicili\.$s@<script>if ((/(MQQBrowser|UCBrowser|baidu)*</script>@@
-^http://e\.[^/]*/(\d+/){2,4}\d+\.xhtml\?\d{0,}
+^http://e\.[^/]*/(\d+/){2,4}\d+\.xhtm[lm]\?\d{0,}
 acfun.cn##.danmu-ad
 adver.v2f6b.club##.v-advertise,.side-adv-img,.advertise,[class^="side-advertisement-"]
 aiyoweia.com##.adsbygoogle
@@ -42,6 +45,7 @@ dandanav.org##.adv,#player-advertising
 daohang.qq.com##[data-ad="true"],[id^="AD_"],[pbflag="top3ad"]
 dlkoo.com###testadtip
 dysfz.tv##[class^="hongbao_hd_"],#slideBox.slideBox,.item-fifth-dl
+eastday.com##.DSP_101
 eastday.com##.mask-ad-360,.yxxf_area,.shopwindow.ovh,[id^="ad_"],.dsp_xxl_ad_big,.xxl_baidu,.im_baidu_ad
 gawuapp89.info,91baidu163.com##.a_mu,.a_xsfl,.a_pr,.V-videoFloat,.a_sxpb,.a_sxp,.a_pt
 gebi1.com###diy1.area
@@ -51,6 +55,7 @@ gucuan.com##.nrygg,.banner
 hexun.com##.side618,[id^="qizhi_"]
 hh010.com##.a_hong_h,.a_hong_c,.a_hong_pt,.a_hong_pr,.a_hong_p,.ad,.bm.a_hongc_c,.a_h_h,.a_h1t_t
 hpjav.tv##.pop-html
+huya.com##.list-adx
 ifeng.com##[class^="topAd_"],[class^="asideAd"],[class^="bottomAd"]
 ipo.hk##.adsbygoogle
 iqiyi.com##.qy-scroll-anchor
@@ -72,6 +77,7 @@ rjno1.com##[id$=nocheckaaa]
 sina.com.cn##.adsarea
 sjqcj.com##[id^="ad_"]
 sojson.com##.a-d-img,.banner1,.banner2,.adsbygoogle,.fly-hezuo
+storyren.com###xydlleft,#xydlright,.pr_ad,.pr_ad1,#diyfastposttop
 tieba.baidu.com###branding_ads
 toutiao.hebtv.com##.content_t.clearfix
 w3school.com.cn###ad_head,#ad
@@ -84,6 +90,8 @@ xingkbjm.com##.banner
 xmfish.com##.advert-entry-list,.wrapxy,.cmp_v
 youku.com##.ad-wrap
 yz511.com##.ibtad,.logo_y,[height="100"],.listad,.index_ad
+|http://alicili$s@<div class="footer" >*/opensug.js"></script>@@
+|http://alicili$s@<script>if ((/(MQQBrowser|UCBrowser|baidu)*</script>@@
 |http://btkitty$s@<div class="footer" >*/opensug.js"></script>@@
 |http://cdn.02wq.com/scrtips/pan.789xz.js$s@window.open('http*);@@
 |http://d.*/V.aspx?Bln=
@@ -95,6 +103,8 @@ yz511.com##.ibtad,.logo_y,[height="100"],.listad,.index_ad
 |http://ups.youku.com/ups/get.json?vid=$s@"ad":@"":@
 |http://video.eastday.com/assets/vdetail_v*/js/newdetail.js$s@var countdownTime = 16;@var countdownTime = 1;@
 |http://video.eastday.com/assets/vdetail_v*/js/newdetail.js$s@videoAd[adNum - 1].show = true;@videoAd[adNum - 1].show = false;@
+|http://www.pcbeta.com/data/cache/jquery.js^
+|http://xda.xiaodutv.com/xda?terminal=pc&position=PCfrontvideo&id=PCfrontvideo$s@var count = ??;@var count = 0;@
 |http://yzgg.
 |http://yzgg.$script
 |http://zhongzicili##[src^="http://go.gotourl"],[href^="//go.gotourls"]
@@ -105,7 +115,9 @@ yz511.com##.ibtad,.logo_y,[height="100"],.listad,.index_ad
 |http://zhongzicili$s@<script src=?http://js3555.*</script>@@
 |http://zhongzicili$s@<script src=?http://js883.*</script>@@
 ||0577renliu.net.cn
+||0796gou.com
 ||16n3c.cn
+||188soft.com/js/PCsoftDetailAD.js
 ||1k4vd.cn
 ||1r8th.cn
 ||20bmm.com:8888/js/$script
@@ -156,6 +168,7 @@ yz511.com##.ibtad,.logo_y,[height="100"],.listad,.index_ad
 ||fwyang.com
 ||gamer.com.tw/animeVideo.php$s@//anti adblock*</script>@</script>@
 ||garacy.cn
+||geluck.net
 ||glpen08.com
 ||goodgupiao.com/skins/default/js/backTop.js
 ||greenxf.cn/yswadwd.js
@@ -199,9 +212,11 @@ yz511.com##.ibtad,.logo_y,[height="100"],.listad,.index_ad
 ||qdyazc.com
 ||qfs365.com
 ||qtch888.com^
+||qushuba.com/images/bqg.js$s@function showpop(url)@function xxxshowpop(url)@
 ||qyl##.qzhfaaa,[id="_iframe_content"],[src*="alicdn.com"]
 ||rjno1.com/$s@}, ?000);@}, 90000000);@
 ||s*.cn/S.aspx?p=
+||sc.0ci.top/output?id=
 ||sdbeta.com/statics/mystyle/js/1699.js
 ||sdtbhbyb.com
 ||sjgnskf.com^
@@ -215,6 +230,7 @@ yz511.com##.ibtad,.logo_y,[height="100"],.listad,.index_ad
 ||vali.cp31.ott.cibntv.net/*/03000801*.mp4.ts?sid=*&ts_keyframe=1
 ||vy74i.cn
 ||wanjie8.com
+||wap.biqiuge.com/js/bboo.js^
 ||wbies.com
 ||win007.com/js/flashad
 ||woozooo.com/img/$script
