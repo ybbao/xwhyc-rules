@@ -1,22 +1,24 @@
-!  -----更新时间:  2019-07-28 23:18:41   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2019-07-30 21:57:13   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224(满)，534897434,438394572--------------
 
 
 !-------------------------------------------
 .cn/V.aspx?Bln=
-/Public/ads/
 /adServe/banners^
 /cms-gg.js?v=
 /js/adver
 /js/advment.js
 /js/gg\d\.js
+/Public/ads/
 /template/lteee/ad/
 /view/image/QT_$image
+001d.com##.ad-list
 0575bbs.com##[height="80"],[height="70"],[height^="80alt"]
 0597kk.com##[data-position][style^="display: block"]
 10jqka.com.cn##.main_cont_2
 163.com##[src^="http://money.163.com/special/zhishu_"]
 188soft.com##[id^="mv_ad_dom"]
+360.com##.activity-bd
 360kuai.com##.bottom_rectangle_gg_outer_box,[id$="_gg"],.adwall-close,[data-gg]
 55188.com##.ad_side,[class^="ad_gg"]
 88gs.com##.banner
@@ -26,10 +28,6 @@
 @@||bahamut.com.tw/JS/ad/anime
 @@||imgs.aixifan.com/banner_
 @@||rjno1.com/templates/moban/js/ads/show_ads.js
-\d+btbtt\.com###wrapper_left_bg,#wrapper_right_bg
-^http://[a-z]*zhongzicili\.$s@<div class="footer"*/opensug.js"></script>@@
-^http://[a-z]*zhongzicili\.$s@<script>if ((/(MQQBrowser|UCBrowser|baidu)*</script>@@
-^http://e\.[^/]*/(\d+/){2,4}\d+\.xhtm[lm]\?\d{0,}
 acfun.cn##.danmu-ad
 adver.v2f6b.club##.v-advertise,.side-adv-img,.advertise,[class^="side-advertisement-"]
 aiyoweia.com##.adsbygoogle
@@ -45,8 +43,7 @@ dandanav.org##.adv,#player-advertising
 daohang.qq.com##[data-ad="true"],[id^="AD_"],[pbflag="top3ad"]
 dlkoo.com###testadtip
 dysfz.tv##[class^="hongbao_hd_"],#slideBox.slideBox,.item-fifth-dl
-eastday.com##.DSP_101
-eastday.com##.mask-ad-360,.yxxf_area,.shopwindow.ovh,[id^="ad_"],.dsp_xxl_ad_big,.xxl_baidu,.im_baidu_ad
+eastday.com##.DSP_101,.mask-ad-360,.yxxf_area,.shopwindow.ovh,[id^="ad_"],.dsp_xxl_ad_big,.xxl_baidu,.im_baidu_ad
 gawuapp89.info,91baidu163.com##.a_mu,.a_xsfl,.a_pr,.V-videoFloat,.a_sxpb,.a_sxp,.a_pt
 gebi1.com###diy1.area
 goodgupiao.com##[class^="Adv_"],[class^="rightBan"],.boxBodyNoBreak,.dl_banner160
@@ -73,6 +70,7 @@ p4yy.com##[height="60"],[height="50"],[src^="http://p4yy.com/gg/"]
 pinmuch.com##.a_pb,.comeing_wad
 pniao.com##.tonglan_ad,.adContainer
 qfs365.com##.ad
+r3sub.com##img[src^="https://r3sub.com/posters"]
 rjno1.com##[id$=nocheckaaa]
 sina.com.cn##.adsarea
 sjqcj.com##[id^="ad_"]
@@ -86,21 +84,28 @@ wenku.baidu.com##.fc-left,.ad-vip-close-bottom,.ggbtm-vip-close,.frist-item
 wenzhangba.com###content_middle,#content_right1
 wnflb\d+\.com##.GzList
 wobei.org##.adxia,.adsbygoogle,#banner
+wuhaozhan.net##.cd,.slideBox
 xingkbjm.com##.banner
 xmfish.com##.advert-entry-list,.wrapxy,.cmp_v
 youku.com##.ad-wrap
+yskk##.bd,[class^="ADTOP"]
 yz511.com##.ibtad,.logo_y,[height="100"],.listad,.index_ad
+zmz2019.com##.lx167
+\d+btbtt\.com###wrapper_left_bg,#wrapper_right_bg
+^http://e\.[^/]*/(\d+/){2,4}\d+\.xhtm[lm]\?\d{0,}
+^http://[a-z]*zhongzicili\.$s@<div class="footer"*/opensug.js"></script>@@
+^http://[a-z]*zhongzicili\.$s@<script>if ((/(MQQBrowser|UCBrowser|baidu)*</script>@@
 |http://alicili$s@<div class="footer" >*/opensug.js"></script>@@
 |http://alicili$s@<script>if ((/(MQQBrowser|UCBrowser|baidu)*</script>@@
 |http://btkitty$s@<div class="footer" >*/opensug.js"></script>@@
 |http://cdn.02wq.com/scrtips/pan.789xz.js$s@window.open('http*);@@
 |http://d.*/V.aspx?Bln=
 |http://hxjs.tool.hexun.com/stock/hx_pageMediaControl.js
-|http://kikibts.com$s@<div class="footer" >*/opensug.js"></script>@@
+|http://kikibts$s@<div class="footer" >*/opensug.js"></script>@@
 |http://m.*/js/wap.js|$s@function _17mb_middle()*function _17mb_tj()@function xxx()@
 |http://pl.cp31.ott.cibntv.net/playlist/m3u8?ids=*_mp4*&ctype=50&
-|http://ups.youku.com/ups/get.json?vid=$s@"AL":??,@"AL":1,@
 |http://ups.youku.com/ups/get.json?vid=$s@"ad":@"":@
+|http://ups.youku.com/ups/get.json?vid=$s@"AL":??,@"AL":1,@
 |http://video.eastday.com/assets/vdetail_v*/js/newdetail.js$s@var countdownTime = 16;@var countdownTime = 1;@
 |http://video.eastday.com/assets/vdetail_v*/js/newdetail.js$s@videoAd[adNum - 1].show = true;@videoAd[adNum - 1].show = false;@
 |http://www.pcbeta.com/data/cache/jquery.js^
@@ -117,6 +122,7 @@ yz511.com##.ibtad,.logo_y,[height="100"],.listad,.index_ad
 ||0577renliu.net.cn
 ||0796gou.com
 ||16n3c.cn
+||181mob.com
 ||188soft.com/js/PCsoftDetailAD.js
 ||1k4vd.cn
 ||1r8th.cn
@@ -157,9 +163,9 @@ yz511.com##.ibtad,.logo_y,[height="100"],.listad,.index_ad
 ||data.9xiazaiqi.com/image/wangpan
 ||dexiazai.tv$s@<script src="https://j.qiqivv.com:*"></script>@@
 ||dlkoo.com/down/Copydown*.js?AID=
-||dlkoo.com/down/js/ListF_
 ||dlkoo.com/down/js/index_down.js
 ||dlkoo.com/down/js/index_top
+||dlkoo.com/down/js/ListF_
 ||dnaoe.com
 ||eastday.com/assets/js/index_adv.js
 ||eastday.com/assets/vdetail_v*/js/newdetail.js$s@}, 1000)@}, 0)@
@@ -177,6 +183,7 @@ yz511.com##.ibtad,.logo_y,[height="100"],.listad,.index_ad
 ||greenxf.com/js/hen.js
 ||greenxf.com/js/majo.js$s@function soft_*function idc_zz@function xxx@
 ||greenxiazai.com/d/js/
+||h12-media.com
 ||haitum.com/template/default/static/js/bottom.js
 ||henanfs.com
 ||hnh-hotel.com^
@@ -251,6 +258,7 @@ yz511.com##.ibtad,.logo_y,[height="100"],.listad,.index_ad
 ||yunlaige.com/js/wap.js$s@function _17mb_middle()*function _17mb_tj()@function _17mb_xxx()@
 ||zantainet.com
 ||zhenhun.co^$third-party
+||zhy333.com
 !-----------------------
 |http://mark.l.qq.com/fcgi-bin/get_video_mark_all*&strAdParam=
 !---------adbyby---------
