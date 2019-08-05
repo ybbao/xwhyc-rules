@@ -1,4 +1,4 @@
-!  -----更新时间:  2019-07-30 21:57:13   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2019-08-05 22:44:55   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224(满)，534897434,438394572--------------
 
 
@@ -20,14 +20,19 @@
 188soft.com##[id^="mv_ad_dom"]
 360.com##.activity-bd
 360kuai.com##.bottom_rectangle_gg_outer_box,[id$="_gg"],.adwall-close,[data-gg]
+38kanshu.com##.wideAd
 55188.com##.ad_side,[class^="ad_gg"]
+5kym.com##.banner
+79tao.com##.GzList
 88gs.com##.banner
 9damao.com##.a_cn,.wp.a_h
 @@/defaultts.tc.qq.com/*.ts?index=0&start=0&
 @@|http://*/js/gg_$domain=miit-eidc.org.cn
+@@||aixifan.com
 @@||bahamut.com.tw/JS/ad/anime
 @@||imgs.aixifan.com/banner_
 @@||rjno1.com/templates/moban/js/ads/show_ads.js
+acfun.cn###bd_ad,.danmu-activity
 acfun.cn##.danmu-ad
 adver.v2f6b.club##.v-advertise,.side-adv-img,.advertise,[class^="side-advertisement-"]
 aiyoweia.com##.adsbygoogle
@@ -63,6 +68,7 @@ lanzous.com##[href^="http://www.duosf.com"],[href^="http://59.56.111.235"]
 lenovo.com.cn##[id^="ad_"],.fixedLeftAd,#topRightAd_id,.bottom_ad_ban_bg
 manhuadui.com##.ad_nith
 manhuagui.com##[id^="rn_ad_"]
+mibaoge.com##.con_ad
 mydrivers.com##.duilian_left,.duilian_right,div[style^="width:843px; height:80px;"],div[style*="height:90px;"]
 onetvb.com##[src^="/assets/ads/"],.mdl-card__supporting-text
 onlytvb.com##[src^="/assets/ads/"],.mdl-card__supporting-text
@@ -70,6 +76,7 @@ p4yy.com##[height="60"],[height="50"],[src^="http://p4yy.com/gg/"]
 pinmuch.com##.a_pb,.comeing_wad
 pniao.com##.tonglan_ad,.adContainer
 qfs365.com##.ad
+qq.com##[data-boss-expo^="ad"]
 r3sub.com##img[src^="https://r3sub.com/posters"]
 rjno1.com##[id$=nocheckaaa]
 sina.com.cn##.adsarea
@@ -85,6 +92,8 @@ wenzhangba.com###content_middle,#content_right1
 wnflb\d+\.com##.GzList
 wobei.org##.adxia,.adsbygoogle,#banner
 wuhaozhan.net##.cd,.slideBox
+xbaquge.com##.con_ad
+xiaohutuwb.com##.tg-site
 xingkbjm.com##.banner
 xmfish.com##.advert-entry-list,.wrapxy,.cmp_v
 youku.com##.ad-wrap
@@ -92,7 +101,8 @@ yskk##.bd,[class^="ADTOP"]
 yz511.com##.ibtad,.logo_y,[height="100"],.listad,.index_ad
 zmz2019.com##.lx167
 \d+btbtt\.com###wrapper_left_bg,#wrapper_right_bg
-^http://e\.[^/]*/(\d+/){2,4}\d+\.xhtm[lm]\?\d{0,}
+^http(?:s|)://m\.[^/]*/\d{3,}\.htm[lm]\?\d{0,}
+^http://e\.[^/]*/(\d+/){2,4}\d+\.(?:tp|)xhtm[lm]\?\d{0,}
 ^http://[a-z]*zhongzicili\.$s@<div class="footer"*/opensug.js"></script>@@
 ^http://[a-z]*zhongzicili\.$s@<script>if ((/(MQQBrowser|UCBrowser|baidu)*</script>@@
 |http://alicili$s@<div class="footer" >*/opensug.js"></script>@@
@@ -102,6 +112,7 @@ zmz2019.com##.lx167
 |http://d.*/V.aspx?Bln=
 |http://hxjs.tool.hexun.com/stock/hx_pageMediaControl.js
 |http://kikibts$s@<div class="footer" >*/opensug.js"></script>@@
+|http://m.*/js/wap.js$s@function zhuye_*function tongji()@function xxx()@
 |http://m.*/js/wap.js|$s@function _17mb_middle()*function _17mb_tj()@function xxx()@
 |http://pl.cp31.ott.cibntv.net/playlist/m3u8?ids=*_mp4*&ctype=50&
 |http://ups.youku.com/ups/get.json?vid=$s@"ad":@"":@
@@ -121,6 +132,7 @@ zmz2019.com##.lx167
 |http://zhongzicili$s@<script src=?http://js883.*</script>@@
 ||0577renliu.net.cn
 ||0796gou.com
+||1010pic.com/static/js/allpc.js
 ||16n3c.cn
 ||181mob.com
 ||188soft.com/js/PCsoftDetailAD.js
@@ -133,6 +145,7 @@ zmz2019.com##.lx167
 ||31bmm.com:8888/js/$script
 ||3g.cnfol.com/f=ua/js/AdSystem/
 ||4006825178.com^
+||510mall.com
 ||519397.com^
 ||55xia.com$s@<script src="https://jc.4006825178.com:*</script>@@
 ||57see.com/js/
@@ -153,6 +166,7 @@ zmz2019.com##.lx167
 ||ax.ifeng.com
 ||biquge18.com/Public/wap/js/code_new.js
 ||bobotune.com
+||bx9000.top
 ||cccwwwr.com
 ||cdn.m.okdd.net/
 ||cfqpxzx.com
@@ -160,6 +174,7 @@ zmz2019.com##.lx167
 ||cnfol.com/pc/Js/as/async
 ||cxfzw.cn
 ||da.mgtv.com/pc/player?v=
+||das168.top
 ||data.9xiazaiqi.com/image/wangpan
 ||dexiazai.tv$s@<script src="https://j.qiqivv.com:*"></script>@@
 ||dlkoo.com/down/Copydown*.js?AID=
@@ -194,6 +209,7 @@ zmz2019.com##.lx167
 ||ifeng.com/showcode?adids=
 ||iygeoy.com
 ||jiumishow.com
+||jjxsw.la/js/common.js
 ||jlxyjs.com/packs/player/vod.js$s@adfront:*};@};@
 ||js.mgtv.com/imgotv-mobile-default/static/js/bottom-banner-app-ad.
 ||jschuangnuo.com
@@ -202,6 +218,7 @@ zmz2019.com##.lx167
 ||ketaoke.com
 ||kkk875.com/static/js/common.js
 ||kuptmf.cn
+||lvsih.cn
 ||m.meiju8.cc/js/m_ban_play_
 ||mqcwr.cn^
 ||mr087.cn
@@ -229,6 +246,7 @@ zmz2019.com##.lx167
 ||sjgnskf.com^
 ||src.7384tv.com/bdfilm_v3/js/cms-common.js?v=20
 ||ssqzj.com/data/js/100.js
+||sukakongjian.top
 ||tbieq.com
 ||tianji520.cn
 ||toutiao.hebtv.com/player/play.php?vid=$s@CKobject._K_('djs').innerHTML=1?;@CKobject._K_('djs').innerHTML=0;@
@@ -244,6 +262,7 @@ zmz2019.com##.lx167
 ||x81zw.com/x81zw.js$s@function listindex*function readtan@function readtanxxx@
 ||xbiquge6.com/js/cxlcydr.js
 ||xcar.com.cn/dsp/adpc?appId=
+||xcsaz.com
 ||xiaohui2.cn
 ||xibupan.com/file-$s@var paypopupURL=@@
 ||xibupan.com/file-$s@var secs = 60;@var secs = 1;@
@@ -253,6 +272,7 @@ zmz2019.com##.lx167
 ||xxffo.com/nd/b_slett.php
 ||y0o1g.cn
 ||yaseg1.com/afasdfasdf/id/*callback=jQuery
+||yingkepj.cn
 ||ytmaitian.com
 ||yttz113.com
 ||yunlaige.com/js/wap.js$s@function _17mb_middle()*function _17mb_tj()@function _17mb_xxx()@
